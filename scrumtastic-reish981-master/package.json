@@ -1,0 +1,26 @@
+{
+  "name": "scrum",
+  "version": "1.0.0",
+  "description": "A web app for SCRUM software developement",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-reish981.git"
+  },
+  "keywords": [
+  "SCRUM",
+  "software",
+  "developement",
+  "task",
+  "board"
+  ],
+  "author": "Reis Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-reish981/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-reish981#readme"
+}
